@@ -16,6 +16,8 @@ Then open `http://localhost:5173`. Vite scripts remain in `package.json` if you 
 
 Copy is taken from `Prashanth_Resume.pdf`. The hero photo is a crop of a 2020 Camera Roll shot at `assets/avatar.jpg`. LinkedIn is set to [prashanth-srinivasan-4701116a](https://www.linkedin.com/in/prashanth-srinivasan-4701116a) because it matches DHL, Chennai, and Electronics & Instrumentation. Update that URL in `index.html` if you use a different profile. Swap `assets/avatar.jpg` if you have a sharper headshot.
 
-## Deploy
+## Live site
 
-Any static host works: Vercel, Netlify, or GitHub Pages. Upload the folder as-is, or run `npm run build` after installing Node.
+https://prash004.github.io/
+
+Pushed to [prash004/prash004.github.io](https://github.com/prash004/prash004.github.io) and served with GitHub Pages.
